@@ -1,0 +1,3 @@
+crypto-api-key
+
+	CG-MD1o4fuYZk9ow5ALEdk3Dkcr
